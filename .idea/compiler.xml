@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="customTour" />
+        <module name="disneyProvider" />
+        <module name="freedomWalkProvider" />
+        <module name="hotelManagerProvider" />
+        <module name="jinjiangConsumer" />
+        <module name="jinjiangUtil" />
+        <module name="orderManagerProvider" />
+        <module name="periphVacatProvider" />
+        <module name="selectedthemes" />
+        <module name="seleProducts" />
+        <module name="specialOffers" />
+        <module name="tour_provider" />
+        <module name="userProvider" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
